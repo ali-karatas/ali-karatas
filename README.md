@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikaratas17&layout=pie&hide=Jupyter%20Notebook,ShaderLab,GLSL,CMake,Swift,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
+## Relevant Repositories with Brief Explanations
+1. [Knowledge distillation for EN–TR / TR–EN neural machine translation](https://github.com/ali-karatas/nmt-knowledge-distillation-tr-en)
+2. [Sketch Generation](https://github.com/ali-karatas/Generating-Sketches-From-Face-Images-447-Project-)
+3. [Liquid Mixing Robot](https://github.com/ali-karatas/Liquid-Mixing-Robot-Project)
+4. [Pong Game](https://github.com/ali-karatas/Pong-Game-Project-Embedded-Systems)
+5. [Differential Privacy Testing](https://github.com/ali-karatas/Testing-Local-Differential-Privacy-Protocols-COMP-430-Project)
+
+
 
 ## Relevant Courses Taken During My Bachelor Studies and Their Projects
 - COMP 132: Advanced Programming
