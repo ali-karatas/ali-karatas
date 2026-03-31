@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikaratas17&layout=pie&hide=Jupyter%20Notebook,ShaderLab,GLSL,CMake,Swift,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-## Relevant Repositories with Brief Explanations
+## Relevant Repositories
 1. [Knowledge Distillation for EN–TR / TR–EN Neural Machine Translation](https://github.com/ali-karatas/nmt-knowledge-distillation-tr-en)
 2. [Unsupervised Face Sketch Generation](https://github.com/ali-karatas/Generating-Sketches-From-Face-Images-447-Project-)
 3. [Automatic Liquid Mixer Robot](https://github.com/ali-karatas/Liquid-Mixing-Robot-Project)
