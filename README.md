@@ -10,7 +10,7 @@ At Koc University (Istanbul, Turkey) I have studied,
 
 I am currently studying Computer Science Master at the Albert-Ludwigs-Universität Freiburg (Freiburg im Breisgau, Germany).
 
-![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ## Relevant Repositories
 1. [Knowledge Distillation for EN–TR / TR–EN Neural Machine Translation](https://github.com/ali-karatas/nmt-knowledge-distillation-tr-en)
