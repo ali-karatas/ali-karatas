@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## Relevant Repositories with Brief Explanations
 1. [Knowledge distillation for EN–TR / TR–EN neural machine translation](https://github.com/ali-karatas/nmt-knowledge-distillation-tr-en)
 2. [Sketch Generation](https://github.com/ali-karatas/Generating-Sketches-From-Face-Images-447-Project-)
-3. [Liquid Mixing Robot](https://github.com/ali-karatas/Liquid-Mixing-Robot-Project)
+3. [Automatic Liquid Mixer Robot](https://github.com/ali-karatas/Liquid-Mixing-Robot-Project)
 4. [Pong Game Project in Assembly Language](https://github.com/ali-karatas/Pong-Game-Project-Embedded-Systems)
 5. [Differential Privacy Testing](https://github.com/ali-karatas/Testing-Local-Differential-Privacy-Protocols-COMP-430-Project)
 
