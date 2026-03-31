@@ -10,8 +10,6 @@ At Koc University (Istanbul, Turkey) I have studied,
 
 I am currently studying Computer Science Master at the Albert-Ludwigs-Universität Freiburg (Freiburg im Breisgau, Germany).
 
-![Top Languages](./profile/top-langs.svg)
-
 ## Relevant Repositories
 1. [Knowledge Distillation for EN–TR / TR–EN Neural Machine Translation](https://github.com/ali-karatas/nmt-knowledge-distillation-tr-en)
 2. [Unsupervised Face Sketch Generation](https://github.com/ali-karatas/Generating-Sketches-From-Face-Images-447-Project-)
@@ -20,6 +18,8 @@ I am currently studying Computer Science Master at the Albert-Ludwigs-Universit�
 5. [Differential Privacy Testing](https://github.com/ali-karatas/Testing-Local-Differential-Privacy-Protocols-COMP-430-Project)
 
 
+
+![Top Languages](./profile/top-langs.svg)
 
 ## Relevant Courses Taken During My Bachelor Studies and Their Projects
 - COMP 132: Advanced Programming
